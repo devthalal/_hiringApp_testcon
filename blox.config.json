@@ -1,0 +1,1 @@
+{"name":"testcon","type":"ui-container","source":{"https":"https://github.com/devthalal/_hiringApp_testcon","ssh":"git@github.com:devthalal/_hiringApp_testcon.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
